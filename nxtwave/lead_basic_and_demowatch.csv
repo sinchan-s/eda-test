@@ -1,0 +1,359 @@
+lead_id,age,gender,current_city,current_education,parent_occupation,lead_gen_source,demo_watched_date,language,watched_percentage
+USR1001,16,FEMALE,Hyderabad,Intermediate,Private Employee,social_media,,,
+USR1002,20,MALE,Bengaluru,B.Tech,Business,user_referrals,1/4/2022,Telugu,42.0
+USR1003,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,user_referrals,1/7/2022,Telugu,81.0
+USR1004,16,MALE,Mumbai,Intermediate,IT Employee,user_referrals,1/2/2022,Telugu,35.0
+USR1005,16,MALE,Chennai,Intermediate,Government Employee,user_referrals,1/3/2022,Hindi,38.0
+USR1006,16,MALE,Kochi,Intermediate,Doctor,user_referrals,1/12/2022,Hindi,54.0
+USR1007,16,FEMALE,Hyderabad,Intermediate,Professor/Faculty,social_media,1/11/2022,English,52.0
+USR1008,20,MALE,Hyderabad,B.Tech,Business,website,1/8/2022,Telugu,41.0
+USR1009,20,MALE,Hyderabad,B.Tech,Lawyer,website,1/10/2022,Telugu,50.0
+USR1010,20,FEMALE,Hyderabad,B.Tech,IT Employee,website,1/12/2022,Telugu,48.0
+USR1011,20,FEMALE,Hyderabad,B.Tech,Private Employee,website,1/17/2022,Telugu,44.0
+USR1012,20,FEMALE,Hyderabad,B.Tech,Business,social_media,1/16/2022,Telugu,46.0
+USR1013,21,FEMALE,Hyderabad,Degree,Lawyer,SEO,1/18/2022,Telugu,50.0
+USR1014,22,MALE,Hyderabad,Looking for Job,IT Employee,SEO,1/18/2022,Telugu,51.0
+USR1015,25,FEMALE,Hyderabad,10th Completed,Government Employee,SEO,1/18/2022,Hindi,44.0
+USR1016,18,MALE,Hyderabad,B.Tech,Business,SEO,2/21/2022,English,47.0
+USR1017,24,MALE,Hyderabad,Looking for Job,Lawyer,social_media,2/19/2022,English,42.0
+USR1019,22,FEMALE,Bengaluru,Looking for Job,Government Employee,social_media,2/21/2022,Hindi,38.0
+USR1020,25,MALE,Kochi,10th Completed,Doctor,social_media,2/21/2022,English,36.0
+USR1021,18,FEMALE,Hyderabad,B.Tech,Professor/Faculty,social_media,1/2/2022,English,100.0
+USR1022,24,FEMALE,Hyderabad,Looking for Job,Business,social_media,1/4/2022,Telugu,5.0
+USR1023,21,FEMALE,Hyderabad,Degree,Lawyer,social_media,1/1/2022,Telugu,52.0
+USR1024,22,FEMALE,Kochi,Looking for Job,IT Employee,social_media,1/2/2022,Telugu,53.0
+USR1025,25,FEMALE,Kochi,Looking for Job,Private Employee,email_marketing,1/6/2022,English,8.0
+USR1026,18,MALE,Kochi,B.Tech,Business,SEO,1/10/2022,English,10.0
+USR1027,24,FEMALE,Hyderabad,Looking for Job,Lawyer,SEO,1/9/2022,English,11.0
+USR1028,18,FEMALE,Hyderabad,B.Tech,IT Employee,user_referrals,1/10/2022,Telugu,50.0
+USR1029,24,FEMALE,Hyderabad,Looking for Job,Government Employee,social_media,1/10/2022,Telugu,14.0
+USR1030,21,FEMALE,Kochi,Degree,Government Employee,email_marketing,1/11/2022,Telugu,17.0
+USR1031,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing,1/17/2022,English,20.0
+USR1032,25,MALE,Bengaluru,Looking for Job,Government Employee,email_marketing,1/16/2022,English,23.0
+USR1033,18,FEMALE,Bengaluru,B.Tech,Government Employee,social_media,1/21/2022,English,55.0
+USR1034,16,MALE,Bengaluru,Intermediate,Government Employee,social_media,1/19/2022,English,73.0
+USR1035,20,MALE,Visakhapatnam,B.Tech,Government Employee,email_marketing,1/17/2022,English,26.0
+USR1036,20,MALE,Visakhapatnam,B.Tech,Government Employee,SEO,2/20/2022,English,29.0
+USR1037,21,FEMALE,Kochi,Degree,Government Employee,SEO,2/22/2022,English,32.0
+USR1038,22,MALE,Hyderabad,Looking for Job,Government Employee,social_media,2/21/2022,English,53.0
+USR1039,25,FEMALE,Bengaluru,Looking for Job,Government Employee,user_referrals,2/21/2022,English,56.0
+USR1040,18,FEMALE,Visakhapatnam,B.Tech,Government Employee,website,2/25/2022,English,35.0
+USR1041,24,FEMALE,Mumbai,Looking for Job,Government Employee,SEO,1/3/2022,English,38.0
+USR1042,18,FEMALE,Chennai,B.Tech,Government Employee,email_marketing,1/1/2022,Hindi,41.0
+USR1043,24,FEMALE,Kochi,Looking for Job,IT Employee,social_media,1/1/2022,English,44.0
+USR1044,21,MALE,Bengaluru,Degree,Government Employee,user_referrals,1/3/2022,English,59.0
+USR1045,22,FEMALE,Visakhapatnam,Looking for Job,Business,website,1/4/2022,English,47.0
+USR1046,25,FEMALE,Mumbai,Looking for Job,Lawyer,SEO,1/10/2022,English,50.0
+USR1047,18,FEMALE,Chennai,B.Tech,IT Employee,email_marketing,1/8/2022,Hindi,55.0
+USR1048,16,FEMALE,Kochi,Intermediate,Business,social_media,,,
+USR1049,20,FEMALE,Visakhapatnam,B.Tech,Business,user_referrals,,,
+USR1050,22,MALE,Visakhapatnam,Looking for Job,Business,website,1/11/2022,English,62.0
+USR1051,25,FEMALE,Visakhapatnam,Looking for Job,Business,SEO,1/18/2022,English,60.0
+USR1052,18,MALE,Visakhapatnam,B.Tech,Business,email_marketing,1/17/2022,English,65.0
+USR1053,24,MALE,Visakhapatnam,Looking for Job,Business,SEO,1/19/2022,English,65.0
+USR1054,18,MALE,Visakhapatnam,B.Tech,Business,email_marketing,,,
+USR1055,24,FEMALE,Visakhapatnam,Looking for Job,Lawyer,social_media,1/18/2022,English,70.0
+USR1056,21,MALE,Mumbai,Degree,Government Employee,user_referrals,,,
+USR1057,22,MALE,Chennai,Looking for Job,Government Employee,website,2/23/2022,English,74.0
+USR1058,25,MALE,Chennai,B.Tech,Government Employee,SEO,2/20/2022,English,75.0
+USR1059,18,FEMALE,Mumbai,B.Tech,Government Employee,email_marketing,,,
+USR1060,16,MALE,Mumbai,Intermediate,Government Employee,social_media,,,
+USR1061,20,FEMALE,Bengaluru,B.Tech,Government Employee,email_marketing,,,
+USR1062,20,FEMALE,Kochi,B.Tech,Business,email_marketing,1/7/2022,English,75.0
+USR1063,21,FEMALE,Hyderabad,Degree,Business,email_marketing,1/1/2022,English,68.0
+USR1064,22,FEMALE,Hyderabad,Looking for Job,Business,social_media,,,
+USR1065,25,FEMALE,Hyderabad,B.Tech,Business,social_media,1/6/2022,Hindi,40.0
+USR1066,18,MALE,Kochi,B.Tech,IT Employee,email_marketing,,,
+USR1067,24,MALE,Kochi,Looking for Job,IT Employee,SEO,1/10/2022,English,85.0
+USR1068,18,FEMALE,Kochi,B.Tech,IT Employee,SEO,,,
+USR1069,24,MALE,Hyderabad,Looking for Job,IT Employee,social_media,,,
+USR1070,21,MALE,Bengaluru,Degree,IT Employee,user_referrals,1/11/2022,English,71.0
+USR1071,22,MALE,Visakhapatnam,Looking for Job,IT Employee,website,1/18/2022,Hindi,86.0
+USR1072,25,FEMALE,Mumbai,Intermediate Completed,IT Employee,SEO,1/17/2022,Hindi,87.0
+USR1073,18,MALE,Chennai,B.Tech,IT Employee,email_marketing,1/19/2022,English,88.0
+USR1074,25,MALE,Kochi,Intermediate Completed,IT Employee,social_media,,,
+USR1075,18,MALE,Bengaluru,B.Tech,IT Employee,user_referrals,1/18/2022,English,44.0
+USR1076,24,FEMALE,Visakhapatnam,Looking for Job,Government Employee,website,,,
+USR1077,18,MALE,Mumbai,B.Tech,Business,SEO,2/21/2022,English,100.0
+USR1078,24,FEMALE,Chennai,Looking for Job,Lawyer,email_marketing,2/22/2022,English,89.0
+USR1079,21,FEMALE,Kochi,Degree,IT Employee,social_media,,,
+USR1080,22,FEMALE,Hyderabad,Looking for Job,Government Employee,user_referrals,,,
+USR1081,25,MALE,Hyderabad,Intermediate Completed,Doctor,website,,,
+USR1082,18,MALE,Hyderabad,B.Tech,Professor/Faculty,SEO,1/5/2022,English,2.0
+USR1083,16,MALE,Hyderabad,Intermediate,Business,email_marketing,1/8/2022,English,90.0
+USR1084,20,MALE,Hyderabad,B.Tech,Lawyer,SEO,,,
+USR1085,20,MALE,Hyderabad,B.Tech,IT Employee,email_marketing,,,
+USR1086,21,MALE,Hyderabad,Degree,Private Employee,social_media,,,
+USR1087,22,MALE,Mumbai,Looking for Job,Business,user_referrals,1/10/2022,English,74.0
+USR1088,25,MALE,Chennai,Intermediate Completed,Lawyer,website,,,
+USR1089,18,MALE,Mumbai,B.Tech,IT Employee,SEO,,,
+USR1090,24,MALE,Chennai,Looking for Job,Government Employee,email_marketing,1/11/2022,English,91.0
+USR1091,18,FEMALE,Kochi,B.Tech,Government Employee,website,1/20/2022,English,92.0
+USR1092,24,FEMALE,Bengaluru,Looking for Job,Government Employee,website,1/21/2022,English,77.0
+USR1093,21,FEMALE,Visakhapatnam,Degree,Government Employee,website,1/26/2022,Telugu,80.0
+USR1094,22,FEMALE,Mumbai,Looking for Job,Government Employee,website,,,
+USR1095,20,FEMALE,Chennai,B.Tech,Government Employee,website,1/18/2022,Hindi,62.0
+USR1096,20,FEMALE,Kochi,B.Tech,Government Employee,website,,,
+USR1097,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,website,2/23/2022,English,63.0
+USR1098,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,website,2/25/2022,English,81.0
+USR1099,20,FEMALE,Visakhapatnam,B.Tech,Business,website,,,
+USR1100,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,website,,,
+USR1101,16,FEMALE,Hyderabad,Intermediate,Private Employee,social_media,,,
+USR1102,20,MALE,Bengaluru,B.Tech,Business,user_referrals,1/5/2022,English,83.0
+USR1103,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,user_referrals,1/1/2022,Telugu,41.0
+USR1104,16,MALE,Mumbai,Intermediate,IT Employee,user_referrals,,,
+USR1105,16,MALE,Chennai,Intermediate,Government Employee,user_referrals,1/6/2022,Hindi,86.0
+USR1106,16,MALE,Kochi,Intermediate,Doctor,user_referrals,,,
+USR1107,16,FEMALE,Hyderabad,Intermediate,Professor/Faculty,social_media,1/10/2022,English,25.0
+USR1108,20,MALE,Hyderabad,B.Tech,Business,website,,,
+USR1109,20,MALE,Hyderabad,B.Tech,Lawyer,website,,,
+USR1110,20,FEMALE,Hyderabad,B.Tech,IT Employee,website,1/13/2022,English,2.0
+USR1111,20,FEMALE,Hyderabad,B.Tech,Private Employee,website,1/19/2022,Telugu,3.0
+USR1112,20,FEMALE,Visakhapatnam,B.Tech,Business,social_media,1/17/2022,Telugu,4.0
+USR1113,21,FEMALE,Visakhapatnam,Degree,Lawyer,SEO,1/19/2022,Telugu,30.0
+USR1114,22,MALE,Mumbai,Looking for Job,IT Employee,SEO,,,
+USR1115,25,FEMALE,Chennai,10th Completed,Government Employee,SEO,1/18/2022,Telugu,35.0
+USR1116,18,MALE,Chennai,B.Tech,Business,SEO,,,
+USR1117,24,MALE,Mumbai,Looking for Job,Lawyer,social_media,2/23/2022,Telugu,35.0
+USR1118,21,MALE,Mumbai,Degree,IT Employee,email_marketing,2/21/2022,Telugu,8.0
+USR1119,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing,,,
+USR1120,25,MALE,Kochi,10th Completed,Doctor,email_marketing,,,
+USR1121,18,FEMALE,Hyderabad,B.Tech,Professor/Faculty,email_marketing,,,
+USR1122,24,FEMALE,Hyderabad,Looking for Job,Business,email_marketing,1/4/2022,Telugu,11.0
+USR1123,21,FEMALE,Hyderabad,Degree,Lawyer,social_media,1/3/2022,Hindi,40.0
+USR1124,22,FEMALE,Kochi,Looking for Job,IT Employee,social_media,,,
+USR1125,25,FEMALE,Kochi,Looking for Job,Private Employee,email_marketing,,,
+USR1126,18,MALE,Kochi,B.Tech,Business,SEO,,,
+USR1127,24,FEMALE,Hyderabad,Looking for Job,Lawyer,SEO,1/12/2022,English,14.0
+USR1128,18,FEMALE,Hyderabad,B.Tech,IT Employee,user_referrals,,,
+USR1129,24,FEMALE,Hyderabad,Looking for Job,Government Employee,social_media,,,
+USR1130,21,FEMALE,Kochi,Degree,Government Employee,email_marketing,1/18/2022,Hindi,17.0
+USR1131,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing,1/17/2022,English,45.0
+USR1132,25,MALE,Bengaluru,Looking for Job,Government Employee,email_marketing,1/16/2022,English,20.0
+USR1133,18,FEMALE,Bengaluru,B.Tech,Government Employee,social_media,1/18/2022,English,64.0
+USR1134,16,MALE,Bengaluru,Intermediate,Government Employee,social_media,,,
+USR1135,20,MALE,Visakhapatnam,B.Tech,Government Employee,email_marketing,1/17/2022,Telugu,65.0
+USR1136,20,MALE,Visakhapatnam,B.Tech,Government Employee,SEO,,,
+USR1137,21,FEMALE,Kochi,Degree,Government Employee,SEO,2/22/2022,Hindi,23.0
+USR1138,22,MALE,Hyderabad,Looking for Job,Government Employee,social_media,,,
+USR1139,25,FEMALE,Bengaluru,Looking for Job,Government Employee,user_referrals,,,
+USR1140,18,FEMALE,Visakhapatnam,B.Tech,Government Employee,website,,,
+USR1141,24,FEMALE,Mumbai,Looking for Job,Government Employee,SEO,,,
+USR1142,18,FEMALE,Chennai,B.Tech,Government Employee,email_marketing,1/6/2022,English,26.0
+USR1143,24,FEMALE,Kochi,Looking for Job,IT Employee,social_media,1/1/2022,Telugu,55.0
+USR1144,21,MALE,Bengaluru,Degree,Government Employee,user_referrals,,,
+USR1145,22,FEMALE,Visakhapatnam,Looking for Job,Business,website,1/5/2022,Telugu,60.0
+USR1146,25,FEMALE,Mumbai,Looking for Job,Lawyer,SEO,,,
+USR1147,18,FEMALE,Chennai,B.Tech,IT Employee,email_marketing,1/9/2022,Telugu,29.0
+USR1148,16,FEMALE,Kochi,Intermediate,Business,social_media,,,
+USR1149,20,FEMALE,Hyderabad,B.Tech,Business,user_referrals,,,
+USR1150,22,MALE,Hyderabad,Looking for Job,Business,website,1/13/2022,Telugu,70.0
+USR1151,25,FEMALE,Bengaluru,Looking for Job,Business,SEO,1/18/2022,Telugu,37.0
+USR1152,18,MALE,Bengaluru,B.Tech,Business,email_marketing,1/16/2022,English,66.0
+USR1153,24,MALE,Bengaluru,Looking for Job,Business,SEO,1/20/2022,Telugu,67.0
+USR1154,18,MALE,Bengaluru,B.Tech,Business,email_marketing,,,
+USR1155,24,FEMALE,Bengaluru,Looking for Job,Lawyer,social_media,1/17/2022,Hindi,41.0
+USR1156,21,MALE,Mumbai,Degree,Government Employee,user_referrals,,,
+USR1157,22,MALE,Chennai,Looking for Job,Government Employee,website,2/22/2022,English,68.0
+USR1158,25,MALE,Chennai,B.Tech,Government Employee,SEO,2/20/2022,English,45.0
+USR1159,18,FEMALE,Mumbai,B.Tech,Government Employee,user_referrals,,,
+USR1160,16,MALE,Mumbai,Intermediate,Government Employee,user_referrals,,,
+USR1161,20,FEMALE,Bengaluru,B.Tech,Government Employee,user_referrals,,,
+USR1162,20,FEMALE,Kochi,B.Tech,Business,user_referrals,1/6/2022,Telugu,49.0
+USR1163,21,FEMALE,Hyderabad,Degree,Business,user_referrals,1/8/2022,Telugu,53.0
+USR1164,22,FEMALE,Hyderabad,Looking for Job,Business,social_media,,,
+USR1165,25,FEMALE,Hyderabad,B.Tech,Business,social_media,,,
+USR1166,18,MALE,Kochi,B.Tech,IT Employee,email_marketing,,,
+USR1167,24,MALE,Kochi,Looking for Job,IT Employee,SEO,1/10/2022,Telugu,57.0
+USR1168,18,FEMALE,Kochi,B.Tech,IT Employee,SEO,,,
+USR1169,24,MALE,Hyderabad,Looking for Job,IT Employee,social_media,,,
+USR1170,21,MALE,Bengaluru,Degree,IT Employee,user_referrals,1/12/2022,Telugu,65.0
+USR1171,22,MALE,Visakhapatnam,Looking for Job,IT Employee,website,1/18/2022,Telugu,70.0
+USR1172,25,FEMALE,Mumbai,Intermediate Completed,IT Employee,SEO,1/20/2022,Telugu,69.0
+USR1173,18,MALE,Chennai,B.Tech,IT Employee,email_marketing,1/19/2022,Telugu,70.0
+USR1174,25,MALE,Kochi,Intermediate Completed,IT Employee,social_media,,,
+USR1175,18,MALE,Bengaluru,B.Tech,IT Employee,user_referrals,1/17/2022,Hindi,61.0
+USR1176,24,FEMALE,Visakhapatnam,Looking for Job,Government Employee,website,,,
+USR1177,18,MALE,Mumbai,B.Tech,Business,SEO,2/23/2022,English,65.0
+USR1178,24,FEMALE,Chennai,Looking for Job,Lawyer,email_marketing,2/25/2022,Hindi,35.0
+USR1179,21,FEMALE,Kochi,Degree,IT Employee,social_media,,,
+USR1180,22,FEMALE,Visakhapatnam,Looking for Job,Government Employee,user_referrals,,,
+USR1181,25,MALE,Visakhapatnam,Intermediate Completed,Doctor,website,,,
+USR1182,18,MALE,Visakhapatnam,B.Tech,Professor/Faculty,SEO,1/6/2022,Hindi,60.0
+USR1183,16,MALE,Visakhapatnam,Intermediate,Business,email_marketing,1/3/2022,English,70.0
+USR1184,20,MALE,Visakhapatnam,B.Tech,Lawyer,SEO,,,
+USR1185,20,MALE,Visakhapatnam,B.Tech,IT Employee,email_marketing,1/5/2022,English,75.0
+USR1186,21,MALE,Visakhapatnam,Degree,Private Employee,social_media,,,
+USR1187,22,MALE,Mumbai,Looking for Job,Business,user_referrals,1/10/2022,Telugu,80.0
+USR1188,25,MALE,Chennai,Intermediate Completed,Lawyer,website,,,
+USR1189,18,MALE,Mumbai,B.Tech,IT Employee,SEO,,,
+USR1190,24,MALE,Chennai,Looking for Job,Government Employee,email_marketing,1/11/2022,Telugu,85.0
+USR1191,18,FEMALE,Kochi,B.Tech,Government Employee,SEO,1/17/2022,Telugu,85.0
+USR1192,24,FEMALE,Bengaluru,Looking for Job,Government Employee,social_media,1/17/2022,English,90.0
+USR1193,21,FEMALE,Visakhapatnam,Degree,Government Employee,social_media,1/20/2022,English,95.0
+USR1194,22,FEMALE,Mumbai,Looking for Job,Government Employee,social_media,,,
+USR1195,20,FEMALE,Chennai,B.Tech,Government Employee,social_media,1/17/2022,English,100.0
+USR1196,20,FEMALE,Kochi,B.Tech,Government Employee,social_media,,,
+USR1197,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,social_media,2/22/2022,Telugu,90.0
+USR1198,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,social_media,2/21/2022,Telugu,11.0
+USR1199,20,FEMALE,Visakhapatnam,B.Tech,Business,social_media,,,
+USR1200,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,social_media,,,
+USR1201,16,FEMALE,Hyderabad,Intermediate,Private Employee,social_media,,,
+USR1202,20,MALE,Bengaluru,B.Tech,Business,user_referrals,1/3/2022,Telugu,15.0
+USR1203,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,user_referrals,1/3/2022,English,12.0
+USR1204,16,MALE,Mumbai,Intermediate,IT Employee,user_referrals,,,
+USR1205,16,MALE,Chennai,Intermediate,Government Employee,user_referrals,,,
+USR1206,16,MALE,Kochi,Intermediate,Doctor,user_referrals,,,
+USR1207,16,FEMALE,Hyderabad,Intermediate,Professor/Faculty,social_media,1/12/2022,English,13.0
+USR1208,20,MALE,Hyderabad,B.Tech,Business,website,,,
+USR1209,20,MALE,Hyderabad,B.Tech,Lawyer,website,,,
+USR1210,20,FEMALE,Hyderabad,B.Tech,IT Employee,website,1/16/2022,English,71.0
+USR1211,20,FEMALE,Hyderabad,B.Tech,Private Employee,website,1/26/2022,English,72.0
+USR1212,20,FEMALE,Hyderabad,B.Tech,Business,social_media,1/26/2022,English,19.0
+USR1213,21,FEMALE,Hyderabad,Degree,Lawyer,SEO,,,
+USR1214,22,MALE,Mumbai,Looking for Job,IT Employee,SEO,,,
+USR1215,25,FEMALE,Chennai,10th Completed,Government Employee,SEO,1/17/2022,Telugu,27.0
+USR1216,18,MALE,Chennai,B.Tech,Business,SEO,,,
+USR1217,24,MALE,Mumbai,Looking for Job,Lawyer,social_media,2/22/2022,English,14.0
+USR1218,21,MALE,Mumbai,Degree,IT Employee,website,2/21/2022,Telugu,85.0
+USR1219,22,FEMALE,Bengaluru,Looking for Job,Government Employee,website,,,
+USR1220,25,MALE,Kochi,10th Completed,Doctor,website,,,
+USR1221,18,FEMALE,Hyderabad,B.Tech,Professor/Faculty,website,,,
+USR1222,24,FEMALE,Hyderabad,Looking for Job,Business,website,1/6/2022,English,25.0
+USR1223,21,FEMALE,Hyderabad,Degree,Lawyer,social_media,1/3/2022,Telugu,23.0
+USR1224,22,FEMALE,Kochi,Looking for Job,IT Employee,social_media,,,
+USR1225,25,FEMALE,Kochi,Looking for Job,Private Employee,email_marketing,1/5/2022,Hindi,21.0
+USR1226,18,MALE,Kochi,B.Tech,Business,SEO,,,
+USR1227,24,FEMALE,Hyderabad,Looking for Job,Lawyer,SEO,1/9/2022,English,73.0
+USR1228,18,FEMALE,Hyderabad,B.Tech,IT Employee,user_referrals,,,
+USR1229,24,FEMALE,Hyderabad,Looking for Job,Government Employee,social_media,,,
+USR1230,21,FEMALE,Kochi,Degree,Government Employee,email_marketing,1/11/2022,English,74.0
+USR1231,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing,1/19/2022,English,19.0
+USR1232,25,MALE,Bengaluru,Looking for Job,Government Employee,email_marketing,1/20/2022,Telugu,75.0
+USR1233,18,FEMALE,Bengaluru,B.Tech,Government Employee,social_media,1/22/2022,English,17.0
+USR1234,16,MALE,Bengaluru,Intermediate,Government Employee,social_media,,,
+USR1235,20,MALE,Visakhapatnam,B.Tech,Government Employee,email_marketing,1/18/2022,English,80.0
+USR1236,20,MALE,Visakhapatnam,B.Tech,Government Employee,SEO,,,
+USR1237,21,FEMALE,Kochi,Degree,Government Employee,SEO,2/21/2022,English,80.0
+USR1238,22,MALE,Hyderabad,Looking for Job,Government Employee,social_media,2/22/2022,Telugu,80.0
+USR1239,25,FEMALE,Bengaluru,Looking for Job,Government Employee,user_referrals,,,
+USR1240,18,FEMALE,Visakhapatnam,B.Tech,Government Employee,website,,,
+USR1241,24,FEMALE,Mumbai,Looking for Job,Government Employee,SEO,,,
+USR1242,18,FEMALE,Chennai,B.Tech,Government Employee,email_marketing,1/3/2022,Telugu,16.0
+USR1243,24,FEMALE,Kochi,Looking for Job,IT Employee,social_media,1/4/2022,Telugu,17.0
+USR1244,21,MALE,Bengaluru,Degree,Government Employee,user_referrals,,,
+USR1245,22,FEMALE,Visakhapatnam,Looking for Job,Business,website,,,
+USR1246,25,FEMALE,Mumbai,Looking for Job,Lawyer,SEO,,,
+USR1247,18,FEMALE,Chennai,B.Tech,IT Employee,email_marketing,1/10/2022,Telugu,76.0
+USR1248,16,FEMALE,Kochi,Intermediate,Business,social_media,,,
+USR1249,20,FEMALE,Visakhapatnam,B.Tech,Business,user_referrals,,,
+USR1250,22,MALE,Visakhapatnam,Looking for Job,Business,website,1/11/2022,Telugu,77.0
+USR1251,25,FEMALE,Visakhapatnam,Looking for Job,Business,SEO,1/17/2022,Telugu,80.0
+USR1252,18,MALE,Visakhapatnam,B.Tech,Business,email_marketing,1/17/2022,Telugu,18.0
+USR1253,24,MALE,Visakhapatnam,Looking for Job,Business,SEO,1/19/2022,English,80.0
+USR1254,18,MALE,Bengaluru,B.Tech,Business,email_marketing,,,
+USR1255,24,FEMALE,Bengaluru,Looking for Job,Lawyer,social_media,1/18/2022,English,80.0
+USR1256,21,MALE,Mumbai,Degree,Government Employee,user_referrals,,,
+USR1257,22,MALE,Chennai,Looking for Job,Government Employee,website,2/25/2022,English,19.0
+USR1258,25,MALE,Chennai,B.Tech,Government Employee,SEO,2/26/2022,English,80.0
+USR1259,18,FEMALE,Mumbai,B.Tech,Government Employee,email_marketing,,,
+USR1260,16,MALE,Mumbai,Intermediate,Government Employee,social_media,,,
+USR1261,20,FEMALE,Bengaluru,B.Tech,Government Employee,email_marketing,,,
+USR1262,20,FEMALE,Kochi,B.Tech,Business,email_marketing,1/7/2022,English,80.0
+USR1263,21,FEMALE,Hyderabad,Degree,Business,email_marketing,1/9/2022,English,80.0
+USR1264,22,FEMALE,Hyderabad,Looking for Job,Business,social_media,,,
+USR1265,25,FEMALE,Hyderabad,B.Tech,Business,social_media,1/8/2022,English,20.0
+USR1266,18,MALE,Kochi,B.Tech,IT Employee,email_marketing,,,
+USR1267,24,MALE,Kochi,Looking for Job,IT Employee,SEO,1/14/2022,Telugu,79.0
+USR1268,18,FEMALE,Kochi,B.Tech,IT Employee,SEO,,,
+USR1269,24,MALE,Hyderabad,Looking for Job,IT Employee,social_media,,,
+USR1270,21,MALE,Bengaluru,Degree,IT Employee,user_referrals,1/13/2022,Telugu,78.0
+USR1271,22,MALE,Visakhapatnam,Looking for Job,IT Employee,website,1/19/2022,Telugu,77.0
+USR1272,25,FEMALE,Mumbai,Intermediate Completed,IT Employee,SEO,1/17/2022,English,76.0
+USR1273,18,MALE,Chennai,B.Tech,IT Employee,email_marketing,1/19/2022,English,91.0
+USR1274,25,MALE,Kochi,Intermediate Completed,IT Employee,social_media,,,
+USR1275,18,MALE,Bengaluru,B.Tech,IT Employee,user_referrals,1/18/2022,English,75.0
+USR1276,24,FEMALE,Visakhapatnam,Looking for Job,Government Employee,website,,,
+USR1277,18,MALE,Mumbai,B.Tech,Business,SEO,2/21/2022,Telugu,74.0
+USR1278,24,FEMALE,Chennai,Looking for Job,Lawyer,email_marketing,2/21/2022,English,73.0
+USR1279,21,FEMALE,Kochi,Degree,IT Employee,social_media,,,
+USR1280,22,FEMALE,Visakhapatnam,Looking for Job,Government Employee,user_referrals,,,
+USR1281,25,MALE,Visakhapatnam,Intermediate Completed,Doctor,website,,,
+USR1282,18,MALE,Visakhapatnam,B.Tech,Professor/Faculty,SEO,1/5/2022,Telugu,72.0
+USR1283,16,MALE,Visakhapatnam,Intermediate,Business,email_marketing,1/9/2022,English,78.0
+USR1284,20,MALE,Visakhapatnam,B.Tech,Lawyer,SEO,,,
+USR1285,20,MALE,Visakhapatnam,B.Tech,IT Employee,email_marketing,,,
+USR1286,21,MALE,Visakhapatnam,Degree,Private Employee,social_media,,,
+USR1287,22,MALE,Mumbai,Looking for Job,Business,user_referrals,1/10/2022,English,79.0
+USR1288,25,MALE,Chennai,Intermediate Completed,Lawyer,website,,,
+USR1289,18,MALE,Mumbai,B.Tech,IT Employee,SEO,,,
+USR1290,24,MALE,Chennai,Looking for Job,Government Employee,email_marketing,1/12/2022,English,71.0
+USR1291,18,FEMALE,Kochi,B.Tech,Government Employee,SEO,1/17/2022,English,22.0
+USR1292,24,FEMALE,Bengaluru,Looking for Job,Government Employee,user_referrals,1/17/2022,English,70.0
+USR1293,21,FEMALE,Visakhapatnam,Degree,Government Employee,user_referrals,1/21/2022,English,23.0
+USR1294,22,FEMALE,Mumbai,Looking for Job,Government Employee,user_referrals,,,
+USR1295,20,FEMALE,Chennai,B.Tech,Government Employee,user_referrals,1/18/2022,English,24.0
+USR1296,20,FEMALE,Kochi,B.Tech,Government Employee,user_referrals,,,
+USR1297,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,user_referrals,2/22/2022,English,69.0
+USR1298,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,user_referrals,2/21/2022,English,12.0
+USR1299,20,FEMALE,Visakhapatnam,B.Tech,Business,user_referrals,,,
+USR1300,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,user_referrals,,,
+USR1302,20,MALE,Bengaluru,B.Tech,Business,user_referrals,1/4/2022,English,20.0
+USR1303,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,user_referrals,1/3/2022,English,80.0
+USR1304,16,MALE,Mumbai,Intermediate,IT Employee,user_referrals,,,
+USR1305,16,MALE,Chennai,Intermediate,Government Employee,user_referrals,1/6/2022,English,81.0
+USR1306,16,MALE,Kochi,Intermediate,Doctor,user_referrals,,,
+USR1307,16,FEMALE,Kochi,Intermediate,Professor/Faculty,social_media,1/10/2022,English,28.0
+USR1308,20,MALE,Kochi,B.Tech,Business,website,,,
+USR1309,20,MALE,Kochi,B.Tech,Lawyer,website,,,
+USR1310,20,FEMALE,Kochi,B.Tech,IT Employee,website,1/12/2022,English,82.0
+USR1311,20,FEMALE,Kochi,B.Tech,Private Employee,website,1/18/2022,English,36.0
+USR1312,20,FEMALE,Kochi,B.Tech,Business,social_media,1/17/2022,English,44.0
+USR1313,21,FEMALE,Kochi,Degree,Lawyer,SEO,1/21/2022,English,52.0
+USR1314,22,MALE,Mumbai,Looking for Job,IT Employee,SEO,1/19/2022,English,60.0
+USR1315,25,FEMALE,Chennai,10th Completed,Government Employee,SEO,1/18/2022,English,44.0
+USR1316,18,MALE,Chennai,B.Tech,Business,SEO,,,
+USR1317,24,MALE,Mumbai,Looking for Job,Lawyer,social_media,2/25/2022,English,48.0
+USR1318,21,MALE,Mumbai,Degree,IT Employee,email_marketing,2/25/2022,English,83.0
+USR1319,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing,2/28/2022,English,84.0
+USR1320,25,MALE,Kochi,10th Completed,Doctor,email_marketing,,,
+USR1321,18,FEMALE,Hyderabad,B.Tech,Professor/Faculty,email_marketing,,,
+USR1322,24,FEMALE,Hyderabad,Looking for Job,Business,email_marketing,,,
+USR1323,21,FEMALE,Hyderabad,Degree,Lawyer,social_media,,,
+USR1324,22,FEMALE,Kochi,Looking for Job,IT Employee,social_media,,,
+USR1325,25,FEMALE,Kochi,Looking for Job,Private Employee,email_marketing,,,
+USR1326,18,MALE,Kochi,B.Tech,Business,SEO,,,
+USR1327,24,FEMALE,Hyderabad,Looking for Job,Lawyer,SEO,,,
+USR1328,18,FEMALE,Hyderabad,B.Tech,IT Employee,user_referrals,,,
+USR1329,24,FEMALE,Hyderabad,Looking for Job,Government Employee,social_media,,,
+USR1330,21,FEMALE,Kochi,Degree,Government Employee,email_marketing,,,
+USR1331,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing,,,
+USR1332,25,MALE,Bengaluru,Looking for Job,Government Employee,email_marketing,,,
+USR1333,18,FEMALE,Bengaluru,B.Tech,Government Employee,social_media,,,
+USR1334,16,MALE,Bengaluru,Intermediate,Government Employee,social_media,,,
+USR1335,20,MALE,Visakhapatnam,B.Tech,Government Employee,email_marketing,,,
+USR1336,20,MALE,Visakhapatnam,B.Tech,Government Employee,SEO,,,
+USR1337,21,FEMALE,Kochi,Degree,Government Employee,SEO,,,
+USR1338,22,MALE,Hyderabad,Looking for Job,Government Employee,social_media,,,
+USR1339,25,FEMALE,Bengaluru,Looking for Job,Government Employee,user_referrals,,,
+USR1340,18,FEMALE,Visakhapatnam,B.Tech,Government Employee,website,,,
+USR1341,24,FEMALE,Mumbai,Looking for Job,Government Employee,SEO,,,
+USR1342,18,FEMALE,Chennai,B.Tech,Government Employee,email_marketing,,,
+USR1343,24,FEMALE,Kochi,Looking for Job,IT Employee,social_media,1/25/2022,English,68.0
+USR1344,21,MALE,Bengaluru,Degree,Government Employee,user_referrals,,,
+USR1345,22,FEMALE,Visakhapatnam,Looking for Job,Business,website,,,
+USR1346,25,FEMALE,Mumbai,Looking for Job,Lawyer,SEO,,,
+USR1347,18,FEMALE,Chennai,B.Tech,IT Employee,email_marketing,,,
+USR1348,16,FEMALE,Kochi,Intermediate,Business,social_media,2/27/2022,English,72.0
+USR1349,20,FEMALE,Visakhapatnam,B.Tech,Business,user_referrals,,,
+USR1350,22,MALE,Visakhapatnam,Looking for Job,Business,website,,,
+USR1351,25,FEMALE,Visakhapatnam,Looking for Job,Business,SEO,,,
+USR1352,18,MALE,Visakhapatnam,B.Tech,Business,email_marketing,,,
+USR1353,24,MALE,Visakhapatnam,Looking for Job,Business,SEO,,,
+USR1354,18,MALE,Visakhapatnam,B.Tech,Business,email_marketing,,,
+USR1355,24,FEMALE,Visakhapatnam,Looking for Job,Lawyer,social_media,,,
+USR1356,21,MALE,Mumbai,Degree,Government Employee,user_referrals,,,
+USR1357,22,MALE,Chennai,Looking for Job,Government Employee,website,,,
+USR1358,25,MALE,Chennai,B.Tech,Government Employee,SEO,,,
+USR1359,18,FEMALE,Mumbai,B.Tech,Government Employee,email_marketing,,,
+USR1360,16,MALE,Mumbai,Intermediate,Government Employee,social_media,,,
